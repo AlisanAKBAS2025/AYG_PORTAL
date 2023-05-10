@@ -1,0 +1,16 @@
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\bin\Debug\GİO.exe.config
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\bin\Debug\GİO.exe
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\bin\Debug\GİO.pdb
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.csproj.AssemblyReference.cache
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.csproj.SuggestedBindingRedirects.cache
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form1.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Properties.Resources.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.csproj.GenerateResource.cache
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.csproj.CoreCompileInputs.cache
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.exe
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.pdb
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form2.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form3.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form4.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form5.resources
+C:\Users\alisa\OneDrive\Masaüstü\ymg-donem-projesi-202503032\GİO\GİO\obj\Debug\GİO.Form6.resources
