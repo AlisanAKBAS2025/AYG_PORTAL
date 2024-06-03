@@ -2,8 +2,7 @@
 
 AYG PORTAL, hırdavatçı ve nalbur satış işlemlerini otomatikleştirmek için geliştirilmiş kapsamlı bir satış otomasyon yazılımıdır. Bu proje, C# ve MsSQL kullanılarak tasarlanmıştır ve çeşitli kullanıcı dostu özellikler sunar.
 # Videolu Anlatımı
-https://docs.google.com/spreadsheets/d/1jvmCgujyXGaPU3TJMhZhUNxt4myuHHAQAcmcSfLI63s/edit?usp=sharing
-
+https://drive.google.com/file/d/1sr0jmM_P7IZL-mzJ2En0fqZQH-CzOlxt/view?usp=sharing
 ## Özellikler
 
 - **Personel ve Yönetici Girişi**: Hem personel hem de yöneticiler için özel giriş ve yönetim paneli.
